@@ -193,9 +193,9 @@ function aboutme() {
                 <p className="flex gap-2 items-center dark:text-dark-text-2 text-light-text-2">
                   <Calendar /> <span>2023 - Present</span>
                 </p>
-                <p className="font-bold text-lg">Devops</p>
+                <p className="font-bold text-lg">Backend and Ml</p>
                 <p className="font-medium text-lg dark:text-dark-text-2 text-light-text-2">
-                 Currently I am studying about the concepts of devops.
+                 Currently I am studying about the concepts of backend and machine learning.
                 </p>
               </div>
             </div>
